@@ -6,7 +6,7 @@ int main(int argc, char *argv[]){
 
 if(argc < 1){
 
-printf("Portscan - Modo de Uso ./portscan.c 192.168.0.1");
+printf("Portscan - Modo de Uso ./portscan.c IP");
 return 0;
 
 }else{
