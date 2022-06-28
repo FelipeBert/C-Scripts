@@ -6,7 +6,7 @@ int main(int argc, char *argv[]){
 
 if(argc < 1){
 
-printf("Dos Attack Port 21 - Modo de Uso ./Dos.c 192.168.0.1");
+printf("Dos Attack Port 21 - Modo de Uso ./Dos.c IP");
 return 0;
 
 }else{
